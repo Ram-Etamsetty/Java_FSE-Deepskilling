@@ -2,11 +2,11 @@
 
 ## 1st Scenario
 
-### Before Executing
+### Before Execution
 
 ![Before Execution](bf1.png)
 
-### After Executing
+### After Execution
 
 ![After Execution](af1.png)
 
@@ -14,11 +14,11 @@
 
 ## 2nd Scenario
 
-### Before Exection
+### Before Execution
 
 ![before](bf2.png)
 
-### After Exection
+### After Execution
 
 ![after](af2.png)
 
@@ -26,10 +26,10 @@
 
 ## 3rd Scenario
 
-### Before Exectuion
+### Before Execuion
 
 ![before](bf3.png)
 
-### After Exection
+### After Execution
 
 ![after](af3.png)
