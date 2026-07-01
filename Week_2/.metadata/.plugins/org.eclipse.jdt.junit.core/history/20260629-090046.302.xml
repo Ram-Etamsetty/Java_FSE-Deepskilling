@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="testsetup" project="testsetup" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="com.example.testsetup.AppTest" time="0.0" displayname="AppTest" uniqueid="[engine:junit-jupiter]/[class:com.example.testsetup.AppTest]">
-    <testcase name="addTest" classname="com.example.testsetup.AppTest" time="0.0" displayname="addTest()" uniqueid="[engine:junit-jupiter]/[class:com.example.testsetup.AppTest]/[method:addTest()]"/>
-    <testcase name="basicTestCase" classname="com.example.testsetup.AppTest" time="0.0" displayname="basicTestCase()" uniqueid="[engine:junit-jupiter]/[class:com.example.testsetup.AppTest]/[method:basicTestCase()]"/>
-  </testsuite>
-</testrun>
