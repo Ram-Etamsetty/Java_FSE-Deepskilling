@@ -10,7 +10,6 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.runners.MockitoJUnitRunner;
 
-
 @RunWith(MockitoJUnitRunner.class)
 public class WeatherServiceTest {
 	@Mock
@@ -22,8 +21,8 @@ public class WeatherServiceTest {
 	@Test
 	public void testWeather() {
 		when(mockApi.getTemperature()).thenReturn(24);
-		WeatherService ws = new WeatherService(mockApi);
-		System.out.println(ws.getTemp());
-		assertNotNull(ws.getTemp());
+//		WeatherService ws = new WeatherService(mockApi);
+		System.out.println(weatherService.getTemp());
+		assertNotNull(weatherService.getTemp());
 	}
 }
