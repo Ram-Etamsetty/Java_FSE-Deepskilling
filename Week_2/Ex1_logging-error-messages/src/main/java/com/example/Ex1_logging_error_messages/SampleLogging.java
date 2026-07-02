@@ -7,7 +7,7 @@ public class SampleLogging {
 	private static final Logger logger = LoggerFactory.getLogger(SampleLogging.class); 
 	
 	public static void main(String []args) {
-		logger.info("This is a info message");
+		logger.info("This is an info message");
 		logger.error("This is an error message");
 		logger.warn("This is  a warning");
 	}
