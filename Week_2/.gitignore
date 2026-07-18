@@ -1,3 +1,12 @@
 .metadata/
 Spring Core and Maven/.metadata/
 Spring Data JPA with Spring Boot, Hibernate/.metadata/
+Ex1_logging-error-messages/target/
+Ex5_multiple-returns/target/
+Ex6_verifying_interaction_order/target/
+handling-void-methods/target/
+handling-void-methods/target/
+Spring Core and Maven/Ex-2_LibraryManagementApplication/target/
+Spring Core and Maven/Ex4_Creating-and-configuring-a-maven-project/target/
+Spring Core and Maven/Ex6_Configuring-beans-with-annotations/target/
+Spring Core and Maven/LibraryManagement/target/
